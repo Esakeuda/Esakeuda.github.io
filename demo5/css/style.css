@@ -623,7 +623,7 @@ a:focus {
     color: #aa9166;
     border: 2px solid #aa9166;
     border-radius: 0;
-    background: #121518;
+    background: yellow;
     transition: .3s;
 }
 
