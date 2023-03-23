@@ -691,7 +691,7 @@ a:focus {
 
 .service .service-item p {
     margin: 0;
-    color: #999999;
+    color: black;
     padding: 0 25px 25px 25px;
     font-size: 18px;
 }
