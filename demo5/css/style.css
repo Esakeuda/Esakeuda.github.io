@@ -221,7 +221,7 @@ a:focus {
 
 .nav-bar .btn {
     color: #ffffff;
-    border: 2px solid #aa9166;
+    border: pink;
     border-radius: 0;
 }
 
