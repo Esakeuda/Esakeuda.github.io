@@ -653,7 +653,7 @@ a:focus {
     position: relative;
     width: 100%;
     text-align: center;
-    background: #121518;
+    background: red;
     margin-bottom: 30px;
 }
 
