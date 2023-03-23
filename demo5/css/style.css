@@ -488,7 +488,7 @@ a:focus {
     height: 7px;
     left: 0;
     top: 21px;
-    background: transparent;
+    background: yellowgreen;
     border-top: 1px solid #aa9166;
     border-bottom: 1px solid #aa9166;
     z-index: -1;
