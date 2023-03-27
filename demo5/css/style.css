@@ -810,6 +810,7 @@ a:focus {
 
 .team .team-img img {
     width: 100%;
+    border-radius: 25px;
 }
 
 .team .team-text {
