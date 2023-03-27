@@ -760,6 +760,7 @@ a:focus {
     padding-bottom: 10px;
     font-size: 30px;
     font-weight: 600;
+    padding: 30px;
 }
 
 .feature .feature-item h3::after {
