@@ -798,6 +798,7 @@ a:focus {
     position: relative;
     width: 100%;
     padding: 45px 0 15px 0;
+    border-radius: 25;
 }
 
 .team .team-item {
