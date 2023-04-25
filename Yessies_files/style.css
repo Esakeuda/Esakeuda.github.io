@@ -8,7 +8,7 @@ html {
 }
 
 body {
-    background-color: rgb(148, 148, 148);
+    background-color: rgb(189, 189, 185);
     font-family: Roboto, Arial;
     display: grid;
     grid-template-columns: 1fr;
@@ -49,7 +49,7 @@ body {
 
 
 .header {
-    background-color: rgb(19, 204, 204);
+    background-color: rgba(48, 44, 44, 0.43);
     color: white;
     display: flex;
     flex-direction: row;
