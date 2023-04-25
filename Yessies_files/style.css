@@ -13,6 +13,7 @@ body {
     display: grid;
     grid-template-columns: 1fr;
     color: rgb(60, 60, 60);
+    
 }
 
 .alku {
@@ -48,7 +49,7 @@ body {
 
 
 .header {
-    background-color: rgb(148 148 148);
+    background-color: rgb(19, 204, 204);
     color: white;
     display: flex;
     flex-direction: row;
