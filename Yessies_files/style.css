@@ -41,7 +41,7 @@ body {
 
 .viesti {
     position: absolute;
-    color: white;
+    color: black;
     font-size: 100px;
     top: 20%;
     width: 800px;
