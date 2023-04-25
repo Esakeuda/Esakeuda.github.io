@@ -49,8 +49,8 @@ body {
 
 
 .header {
-    background-color: rgb(19, 204, 204);
-    color: white;
+    background-color: rgb(189, 189, 185);
+    color: black;
     display: flex;
     flex-direction: row;
     justify-content: space-between;
@@ -92,8 +92,8 @@ body {
 }
 
 a {
-    background-color: rgb(19, 204, 204);
-    color: white;
+    /* background-color: rgb(19, 204, 204); */
+    color: black;
     height: 24px;
     padding: 5px;
     border-radius: 50px;
