@@ -13,7 +13,6 @@ body {
     display: grid;
     grid-template-columns: 1fr;
     color: rgb(60, 60, 60);
-    
 }
 
 .alku {
@@ -93,8 +92,8 @@ body {
 
 a {
     /* background-color: rgb(19, 204, 204); */
-    color: white;
-    height: 24px;
+    color: black;
+    height: 26px;
     padding: 5px;
     border-radius: 50px;
     cursor: pointer;
