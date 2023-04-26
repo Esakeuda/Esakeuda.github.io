@@ -85,7 +85,7 @@ body {
 }
 
 .container {
-    align-items: right;
+    align-items: center;
     justify-content: center;
     cursor: pointer;
 }
