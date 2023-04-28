@@ -4,7 +4,6 @@ html {
     left: 0;
     width: 100%;
     height: 100%;
-    <!-- Background color muutettu koodilla 18, 177, 193 turkoosiksi -->
     background: linear-gradient(to right, rgba(0, 0, 0, 0) 30%,rgb(18, 177, 193) 120%);
 }
 
