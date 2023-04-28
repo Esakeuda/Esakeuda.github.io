@@ -105,11 +105,11 @@ a {
 
 a:hover{
     background-color: white;
-    color: rgb(19, 204, 204);
+    color: rgb(18, 177, 193);
 }
 
 svg:hover{
-    fill: rgb(19, 204, 204);
+    fill: rgb(18, 177, 193);
 }
 
 .middleSection {
@@ -188,7 +188,7 @@ svg:hover{
 }
 
 button {
-    background-color: rgb(19, 204, 204);
+    background-color: rgb(18, 177, 193);
     color: white;
     height: 30px;
     border-radius: 10px;
@@ -200,7 +200,7 @@ button {
 
 button:hover {
     background-color: white;
-    color: rgb(19, 204, 204);
+    color: rgb(18, 177, 193);
 }
 
 footer {
