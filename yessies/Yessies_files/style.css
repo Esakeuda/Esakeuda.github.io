@@ -125,7 +125,7 @@ svg:hover{
 .logo {position: relative;display: flex;align-items: center;justify-content: center;}
 
 .panel {
-    background-color: rgba(189, 189, 185, 0.432);
+    background-color: rgba(189, 189, 185);
     width: 80%;
     border-radius: 20px;
     padding: 50px;
