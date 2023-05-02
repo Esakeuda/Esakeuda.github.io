@@ -135,11 +135,60 @@
                 </div>
               </div>
               <div class="tuote">
-                <img class="mainos" src="./Yessies etusivu_files/logo.avif" alt="logo">
+                <img class="mainos" src="./Yessies etusivu_files/logo.avif" alt="logo" onclick="myFunction()">
                 <div class="kuvaus">
                   <h1>Oman logon suunnittelu ja prässäys</h1>
                   <p>Tarvitseeko firmasi logon suunnittelun ensin</p>
                 </div>
+              </div>
+              
+              <!-- Pop-up-ikkuna -->
+              <div id="popup">
+                <img src="./Yessies etusivu_files/logo.avif" alt="logo">
+                <p>Tämä on pop-up-ikkuna!</p>
+              </div>
+              
+              <!-- JavaScript-koodi -->
+              <script>
+              function myFunction() {
+                var popup = document.getElementById("popup");
+                popup.classList.toggle("show");
+              }
+              </script>
+              
+              <!-- CSS-koodi -->
+              <style>
+              #popup {
+                display: none;
+                position: fixed;
+                z-index: 1;
+                padding-top: 100px;
+                left: 0;
+                top: 0;
+                width: 100%;
+                height: 100%;
+                overflow: auto;
+                background-color: rgba(0, 0, 0, 0.4);
+              }
+              
+              #popup img {
+                display: block;
+                margin: auto;
+                max-width: 80%;
+                max-height: 80%;
+              }
+              
+              #popup p {
+                text-align: center;
+                font-size: 36px;
+                color: white;
+              }
+              
+              #popup.show {
+                display: block;
+              }
+              </style>
+              
               </div>  
               <div class="tuote">  
                 
