@@ -125,15 +125,29 @@
         </div>
 
         <div id="palvelut" class="palvelut">
-            <div class="panel">
-              <h1>Palvelut</h1>
-              <div class="tuote">
+          <div class="panel">
+            <h1>Palvelut</h1>
+            <div class="tuote">
+              <a href="#" onclick="avaaPopUp()">
                 <img class="mainos" src="./Yessies etusivu_files/t-shirts-with-logo.webp" alt="t-paita">
-                <div class="kuvaus">
-                  <h1>Oma logo työvaatteeisiin</h1>
-                  <p>Pystymme printtaamaan Firmasi logon tarroina tai työvaatteisiin</p>
-                </div>
+              </a>
+              <div class="kuvaus">
+                <h2>Oma logo työvaatteeisiin</h2>
+                <p>Pystymme printtaamaan Firmasi logon tarroina tai työvaatteisiin</p>
               </div>
+            </div>
+          </div>
+        </div>
+        
+        <script>
+        function avaaPopUp() {
+          var popup = window.open("", "Popup-ikkuna", "width=600,height=400");
+          popup.document.write("<h1>Tervetuloa pop-up-ikkunaan!</h1>");
+          popup.document.write("<p>Tämä on pop-up-ikkunan tekstisisältö.</p>");
+        }
+        </script>
+        
+        
               <div class="tuote">
                 <img class="mainos" src="./Yessies etusivu_files/logo.avif" alt="logo">
                 <div class="kuvaus">
