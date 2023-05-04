@@ -118,27 +118,28 @@
                 <p>Toimin Itä-Uudeltamaalta käsin ja tunnen henkilökohtaisesti suuren joukon taitavia käsityöläisiä.</p>
             </div>
         </div>
-        <div id="palvelut" class="palvelut">
+        <div class="modal" id="myModal">
+          <div class="modal-content">
+            <span class="close">&times;</span>
+            <h1>Tervetuloa modaaliseen ikkunaan!</h1>
+            <p>Tässä esimerkki kuvia minun asiakastöista.</p>
+            <p>Kuvissa olevat tuotteet, hinta alkaen.</p>
+          </div>
+        </div>
+        
+        <div class="palvelut">
           <div class="panel">
             <h1>Palvelut</h1>
             <div class="tuote">
-              <a href="#popup1">
-                <img class="mainos" src="./Yessies etusivu_files/t-shirts-with-logo.webp" alt="t-paita">
-              </a>
-              <div id="popup1" class="popup lightbox">
-                <img src="Paita/DSC_0254.png" alt="Pop-up-ikkunan kuva">
-                <a class="close" href="#">&times;</a>
-              </div>              
+              <img class="mainos" src="./Yessies etusivu_files/t-shirts-with-logo.webp" alt="t-paita" onclick="openModal()">
               <div class="kuvaus">
                 <h2>Oma logo työvaatteeisiin</h2>
                 <p>Pystymme printtaamaan Firmasi logon tarroina tai työvaatteisiin</p>
               </div>
             </div>
             <div class="tuote">
-              <a href="#popup2">
-                <img class="mainos" src="./Yessies etusivu_files/Käyntikortti etu.PNG" alt="">
-                <img class="mainos" src="./Yessies etusivu_files/Käyntikortti taka.PNG" alt="">
-              </a>
+              <img class="mainos" src="./Yessies etusivu_files/Käyntikortti etu.PNG" alt="" onclick="openModal()">
+              <img class="mainos" src="./Yessies etusivu_files/Käyntikortti taka.PNG" alt="" onclick="openModal()">
               <div class="kuvaus">
                 <h2>Käyntikortti</h2>
                 <p>Käyntikorttien suunnittelu ja printtaus</p>
@@ -146,6 +147,7 @@
             </div>
           </div>
         </div>
+        
         <div id="portfolio" class="portfolio">
             <div class="panel">
               <h1>Portfolio</h1>
