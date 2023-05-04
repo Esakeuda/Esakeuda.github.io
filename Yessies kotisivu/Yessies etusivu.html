@@ -118,28 +118,27 @@
                 <p>Toimin Itä-Uudeltamaalta käsin ja tunnen henkilökohtaisesti suuren joukon taitavia käsityöläisiä.</p>
             </div>
         </div>
-        <div class="modal" id="myModal">
-          <div class="modal-content">
-            <span class="close">&times;</span>
-            <h1>Tervetuloa modaaliseen ikkunaan!</h1>
-            <p>Tässä esimerkki kuvia minun asiakastöista.</p>
-            <p>Kuvissa olevat tuotteet, hinta alkaen.</p>
-          </div>
-        </div>
-        
-        <div class="palvelut">
+        <div id="palvelut" class="palvelut">
           <div class="panel">
             <h1>Palvelut</h1>
             <div class="tuote">
-              <img class="mainos" src="./Yessies etusivu_files/t-shirts-with-logo.webp" alt="t-paita" onclick="openModal()">
+              <a href="#" onclick="avaaPopUp1()">
+                <img class="mainos" src="./Yessies etusivu_files/t-shirts-with-logo.webp" alt="t-paita">
+              </a>
+              <div id="popup1" class="popup">
+                <img src="Paita/DSC_0254.png" alt="Pop-up-ikkunan kuva">
+                <a class="close" href="#" onclick="suljePopUp1()">Sulje</a>
+              </div>              
               <div class="kuvaus">
                 <h2>Oma logo työvaatteeisiin</h2>
                 <p>Pystymme printtaamaan Firmasi logon tarroina tai työvaatteisiin</p>
               </div>
             </div>
             <div class="tuote">
-              <img class="mainos" src="./Yessies etusivu_files/Käyntikortti etu.PNG" alt="" onclick="openModal()">
-              <img class="mainos" src="./Yessies etusivu_files/Käyntikortti taka.PNG" alt="" onclick="openModal()">
+              <a href="#" onclick="avaaPopUp2()">
+                <img class="mainos" src="./Yessies etusivu_files/Käyntikortti etu.PNG" alt="">
+                <img class="mainos" src="./Yessies etusivu_files/Käyntikortti taka.PNG" alt="">
+              </a>
               <div class="kuvaus">
                 <h2>Käyntikortti</h2>
                 <p>Käyntikorttien suunnittelu ja printtaus</p>
@@ -147,7 +146,19 @@
             </div>
           </div>
         </div>
-        
+        <script>
+          function avaaPopUp1() {
+            var popup = window.open("", "Popup-ikkuna", "width=600,height=400");
+            popup.document.write("<h1>Tervetuloa pop-up-ikkunaan!</h1>");
+            popup.document.write("<p>Tässä esimerkki kuvia minun asiakastöista.</p>");
+            popup.document.write("<p>Kuvissa olevat tuotteet, hinta alkaen.</p>");
+          }
+          function avaaPopUp2() {
+            var popup = window.open("", "Popup-ikkuna", "width=600,height=400");
+            popup.document.write("<h1>Tässä on esimerkke!</h1>");
+            popup.document.write("<p>Tämä on toisen pop-up-ikkunan tekstisisältö.</p>");
+          }
+        </script>        
         <div id="portfolio" class="portfolio">
             <div class="panel">
               <h1>Portfolio</h1>
