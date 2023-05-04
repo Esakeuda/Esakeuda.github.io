@@ -93,7 +93,7 @@ body {
 a {
     /* background-color: rgb(19, 204, 204); */
     color: black;
-    height: 24px;
+    /* height: 24px; */
     padding: 5px;
     border-radius: 50px;
     cursor: pointer;
