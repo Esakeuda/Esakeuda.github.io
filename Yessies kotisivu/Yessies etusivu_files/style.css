@@ -6,8 +6,63 @@ html {
     height: 100%;
     background: linear-gradient(to right, rgba(0, 0, 0, 0) 30%,rgb(18, 177, 193) 120%);
 }
-
-body {
+.modal {
+    display: none;
+    position: fixed;
+    z-index: 1;
+    left: 0;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    overflow: auto;
+    background-color: rgba(0, 0, 0, 0.5);
+  }
+  
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80%;
+  }
+  
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+  
+  .palvelut {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .tuote {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+  }
+  
+  .mainos {
+    max-width: 200px;
+    max-height: 200px;
+    cursor: pointer;
+  }
+  
+  .kuvaus {
+    margin-left: 20px;
+  }
+  body {
     /* background-color: rgb(148, 148, 148); */
     font-family: Roboto, Arial;
     display: grid;
