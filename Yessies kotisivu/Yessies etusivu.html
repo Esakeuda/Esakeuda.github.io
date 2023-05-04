@@ -122,12 +122,12 @@
           <div class="panel">
             <h1>Palvelut</h1>
             <div class="tuote">
-              <a href="#" onclick="avaaPopUp1()">
+              <a href="#popup1">
                 <img class="mainos" src="./Yessies etusivu_files/t-shirts-with-logo.webp" alt="t-paita">
               </a>
-              <div id="popup1" class="popup">
+              <div id="popup1" class="popup lightbox">
                 <img src="Paita/DSC_0254.png" alt="Pop-up-ikkunan kuva">
-                <a class="close" href="#" onclick="suljePopUp1()">Sulje</a>
+                <a class="close" href="#">&times;</a>
               </div>              
               <div class="kuvaus">
                 <h2>Oma logo työvaatteeisiin</h2>
@@ -135,7 +135,7 @@
               </div>
             </div>
             <div class="tuote">
-              <a href="#" onclick="avaaPopUp2()">
+              <a href="#popup2">
                 <img class="mainos" src="./Yessies etusivu_files/Käyntikortti etu.PNG" alt="">
                 <img class="mainos" src="./Yessies etusivu_files/Käyntikortti taka.PNG" alt="">
               </a>
@@ -146,19 +146,6 @@
             </div>
           </div>
         </div>
-        <script>
-          function avaaPopUp1() {
-            var popup = window.open("", "Popup-ikkuna", "width=600,height=400");
-            popup.document.write("<h1>Tervetuloa pop-up-ikkunaan!</h1>");
-            popup.document.write("<p>Tässä esimerkki kuvia minun asiakastöista.</p>");
-            popup.document.write("<p>Kuvissa olevat tuotteet, hinta alkaen.</p>");
-          }
-          function avaaPopUp2() {
-            var popup = window.open("", "Popup-ikkuna", "width=600,height=400");
-            popup.document.write("<h1>Tässä on esimerkkejä käyntikorteista!</h1>");
-            popup.document.write("<p>Hinnat alkaenS.</p>");
-          }
-        </script>        
         <div id="portfolio" class="portfolio">
             <div class="panel">
               <h1>Portfolio</h1>
