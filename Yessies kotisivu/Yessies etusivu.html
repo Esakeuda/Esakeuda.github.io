@@ -128,7 +128,7 @@
           <div class="panel">
             <h1>Palvelut</h1>
             <div class="tuote">
-              <a href="#" onclick="avaaPopUp()">
+              <a href="#" onclick="avaaPopUp1()">
                 <img class="mainos" src="./Yessies etusivu_files/t-shirts-with-logo.webp" alt="t-paita">
               </a>
               <div class="kuvaus">
@@ -136,36 +136,33 @@
                 <p>Pystymme printtaamaan Firmasi logon tarroina tai työvaatteisiin</p>
               </div>
             </div>
+        
+            <div class="tuote">
+              <a href="#" onclick="avaaPopUp2()">
+                <img class="mainos" src="./Yessies etusivu_files/Käyntikortti etu.PNG" alt="">
+                <img class="mainos" src="./Yessies etusivu_files/Käyntikortti taka.PNG" alt="">
+              </a>
+              <div class="kuvaus">
+                <h2>Käyntikortti</h2>
+                <p>Käyntikorttien suunnittelu ja printtaus</p>
+              </div>
+            </div>
           </div>
         </div>
         
         <script>
-        function avaaPopUp() {
-          var popup = window.open("", "Popup-ikkuna", "width=600,height=400");
-          popup.document.write("<h1>Tervetuloa pop-up-ikkunaan!</h1>");
-          popup.document.write("<p>Tämä on pop-up-ikkunan tekstisisältö.</p>");
-        }
-        </script>
+          function avaaPopUp1() {
+            var popup = window.open("", "Popup-ikkuna", "width=600,height=400");
+            popup.document.write("<h1>Tervetuloa pop-up-ikkunaan!</h1>");
+            popup.document.write("<p>Tämä on pop-up-ikkunan tekstisisältö.</p>");
+          }
         
-        
-              <div class="tuote">
-                <img class="mainos" src="./Yessies etusivu_files/logo.avif" alt="logo">
-                <div class="kuvaus">
-                  <h1>Oman logon suunnittelu ja prässäys</h1>
-                  <p>Tarvitseeko firmasi logon suunnittelun ensin</p>
-                </div>
-              </div>  
-              <div class="tuote">  
-                
-                <img class="mainos" src="./Yessies etusivu_files/Käyntikortti etu.PNG" alt="">
-                <img class="mainos" src="./Yessies etusivu_files/Käyntikortti taka.PNG" alt="">
-                <div class="kuvaus">
-                  <h1>Käyntikortti</h1>
-                  <p>Käyntikorttien suunnittelu ja printtaus</p>
-                </div>
-              </div>  
-          </div>
-        </div>
+          function avaaPopUp2() {
+            var popup = window.open("", "Popup-ikkuna", "width=600,height=400");
+            popup.document.write("<h1>Tervetuloa toiseen pop-up-ikkunaan!</h1>");
+            popup.document.write("<p>Tämä on toisen pop-up-ikkunan tekstisisältö.</p>");
+          }
+        </script>        
 
         <div id="portfolio" class="portfolio">
             <div class="panel">
