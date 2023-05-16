@@ -6,7 +6,7 @@ if valuutta == "dollari":
     rahasumma_muunnos = rahasumma_euroina * 1.22
     valuuttamerkki = "$"
 elif valuutta == "punta":
-    rahasumma_muunnos = rahasumma_euroina * 0.86
+    rahasumma_muunnos = rahasumma_euroina * 0.8610
     valuuttamerkki = "£"
 else:
     print("Virheellinen valuuttavalinta!")
