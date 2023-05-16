@@ -1,4 +1,4 @@
-hedelmat = ["omena", "banaani", "luumu"]
+hedelmat = ["omena", "banaani", "luumu", "mansikka", "apelsiini"]
 
 monta_hedelmaa = int(input("Monta hedelmää haluat tulostaa? "))
 
