@@ -2,7 +2,7 @@ using System;
 
 class Program
 {
-    static void Main()
+    static void Main(string[] args)
     {
         Console.OutputEncoding = System.Text.Encoding.UTF8;
 
@@ -11,9 +11,9 @@ class Program
 
         for (int i = 0; i < tuotteet.Length; i++)
         {
-            Console.WriteLine(tuotteet[i] + " - " + hinnat[i] + " €");
+            Console.WriteLine(tuotteet[i]);
+            Console.WriteLine(hinnat[i] + " €");
+            Console.WriteLine();
         }
-
-        Console.ReadLine();
     }
 }
