@@ -42,27 +42,21 @@ class Program
                 Console.Write("Syötä tuotteen nimi: ");
                 tuote.Nimi = Console.ReadLine();
                 Console.Write("Syötä tuotteen hinta: ");
-                decimal hinta;
                 string hintaInput = Console.ReadLine();
-                if (decimal.TryParse(hintaInput, out hinta))
+                decimal? hinta = null;
+                if (!string.IsNullOrEmpty(hintaInput) && decimal.TryParse(hintaInput, out decimal parsedHinta))
                 {
-                    tuote.Hinta = hinta;
+                    hinta = parsedHinta;
                 }
-                else
-                {
-                    tuote.Hinta = null;
-                }
+                tuote.Hinta = hinta;
                 Console.Write("Syötä tuotteen lukumäärä: ");
-                int maara;
                 string maaraInput = Console.ReadLine();
-                if (int.TryParse(maaraInput, out maara))
+                int? maara = null;
+                if (!string.IsNullOrEmpty(maaraInput) && int.TryParse(maaraInput, out int parsedMaara))
                 {
-                    tuote.Maara = maara;
+                    maara = parsedMaara;
                 }
-                else
-                {
-                    tuote.Maara = null;
-                }
+                tuote.Maara = maara;
                 tuotteet.Add(tuote);
             }
         }
