@@ -1,6 +1,6 @@
 ﻿using System;
 
-class Keskiarvo
+class keskiarvo
 {
     static void Main()
     {
