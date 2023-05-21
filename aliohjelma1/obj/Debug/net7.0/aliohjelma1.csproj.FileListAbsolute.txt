@@ -1,0 +1,15 @@
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\bin\Debug\net7.0\aliohjelma1.exe
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\bin\Debug\net7.0\aliohjelma1.deps.json
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\bin\Debug\net7.0\aliohjelma1.runtimeconfig.json
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\bin\Debug\net7.0\aliohjelma1.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\bin\Debug\net7.0\aliohjelma1.pdb
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\obj\Debug\net7.0\aliohjelma1.csproj.AssemblyReference.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\obj\Debug\net7.0\aliohjelma1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\obj\Debug\net7.0\aliohjelma1.AssemblyInfoInputs.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\obj\Debug\net7.0\aliohjelma1.AssemblyInfo.cs
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\obj\Debug\net7.0\aliohjelma1.csproj.CoreCompileInputs.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\obj\Debug\net7.0\aliohjelma1.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\obj\Debug\net7.0\refint\aliohjelma1.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\obj\Debug\net7.0\aliohjelma1.pdb
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\obj\Debug\net7.0\aliohjelma1.genruntimeconfig.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\aliohjelma1\obj\Debug\net7.0\ref\aliohjelma1.dll

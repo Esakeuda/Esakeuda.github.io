@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "aliohjelma1/1.0.0": {
+        "runtime": {
+          "aliohjelma1.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "aliohjelma1/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
