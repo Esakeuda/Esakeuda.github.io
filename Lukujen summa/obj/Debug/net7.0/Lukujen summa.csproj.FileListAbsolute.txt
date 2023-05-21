@@ -1,0 +1,15 @@
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\bin\Debug\net7.0\Lukujen summa.exe
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\bin\Debug\net7.0\Lukujen summa.deps.json
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\bin\Debug\net7.0\Lukujen summa.runtimeconfig.json
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\bin\Debug\net7.0\Lukujen summa.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\bin\Debug\net7.0\Lukujen summa.pdb
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\obj\Debug\net7.0\Lukujen summa.csproj.AssemblyReference.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\obj\Debug\net7.0\Lukujen summa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\obj\Debug\net7.0\Lukujen summa.AssemblyInfoInputs.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\obj\Debug\net7.0\Lukujen summa.AssemblyInfo.cs
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\obj\Debug\net7.0\Lukujen summa.csproj.CoreCompileInputs.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\obj\Debug\net7.0\Lukujen summa.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\obj\Debug\net7.0\refint\Lukujen summa.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\obj\Debug\net7.0\Lukujen summa.pdb
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\obj\Debug\net7.0\Lukujen summa.genruntimeconfig.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Lukujen summa\obj\Debug\net7.0\ref\Lukujen summa.dll
