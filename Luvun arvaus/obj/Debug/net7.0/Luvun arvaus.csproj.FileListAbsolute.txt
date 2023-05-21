@@ -1,0 +1,15 @@
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\bin\Debug\net7.0\Luvun arvaus.exe
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\bin\Debug\net7.0\Luvun arvaus.deps.json
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\bin\Debug\net7.0\Luvun arvaus.runtimeconfig.json
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\bin\Debug\net7.0\Luvun arvaus.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\bin\Debug\net7.0\Luvun arvaus.pdb
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\obj\Debug\net7.0\Luvun arvaus.csproj.AssemblyReference.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\obj\Debug\net7.0\Luvun arvaus.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\obj\Debug\net7.0\Luvun arvaus.AssemblyInfoInputs.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\obj\Debug\net7.0\Luvun arvaus.AssemblyInfo.cs
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\obj\Debug\net7.0\Luvun arvaus.csproj.CoreCompileInputs.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\obj\Debug\net7.0\Luvun arvaus.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\obj\Debug\net7.0\refint\Luvun arvaus.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\obj\Debug\net7.0\Luvun arvaus.pdb
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\obj\Debug\net7.0\Luvun arvaus.genruntimeconfig.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\Luvun arvaus\obj\Debug\net7.0\ref\Luvun arvaus.dll

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Luvun arvaus/1.0.0": {
+        "runtime": {
+          "Luvun arvaus.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Luvun arvaus/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
