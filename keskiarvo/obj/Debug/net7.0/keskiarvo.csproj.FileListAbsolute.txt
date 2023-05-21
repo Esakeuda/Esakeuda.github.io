@@ -1,0 +1,15 @@
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\bin\Debug\net7.0\keskiarvo.exe
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\bin\Debug\net7.0\keskiarvo.deps.json
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\bin\Debug\net7.0\keskiarvo.runtimeconfig.json
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\bin\Debug\net7.0\keskiarvo.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\bin\Debug\net7.0\keskiarvo.pdb
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\obj\Debug\net7.0\keskiarvo.csproj.AssemblyReference.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\obj\Debug\net7.0\keskiarvo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\obj\Debug\net7.0\keskiarvo.AssemblyInfoInputs.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\obj\Debug\net7.0\keskiarvo.AssemblyInfo.cs
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\obj\Debug\net7.0\keskiarvo.csproj.CoreCompileInputs.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\obj\Debug\net7.0\keskiarvo.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\obj\Debug\net7.0\refint\keskiarvo.dll
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\obj\Debug\net7.0\keskiarvo.pdb
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\obj\Debug\net7.0\keskiarvo.genruntimeconfig.cache
+C:\Users\paiva\Documents\GitHub\Esakeuda.github.io\keskiarvo\obj\Debug\net7.0\ref\keskiarvo.dll
